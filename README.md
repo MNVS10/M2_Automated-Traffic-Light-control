@@ -5,7 +5,8 @@
 
 
 # Introduction #
-	 To automate the traffic signal to make it work 24x7 without any human intervention and to make the process flawless. This improves the efficiency of traffic control and reduce the manpower used in it.'
+	 To automate the traffic signal to make it work 24x7 without any human intervention and to make the process flawless. This improves 
+	 the efficiency of traffic control and reduce the manpower used in it.'
 	 
 SWOT Analysis:
 	
@@ -14,9 +15,10 @@ SWOT Analysis:
 	Opportunities: Many signals even in major cities are not working in nights.
 	Threats: Since it doesnt take the length of traffic into account it may frustate the drivers in heavy traffic areas.
 
-4’W and 1’H
-What: Automated traffic signal control.
-Where: All cities villages and towns.
-When: During night times and in the absence of traffic police.
-Who: Users of Roads.
-How: Runs based on time intervals.
+4’W and 1’H:
+	
+	What: Automated traffic signal control.
+	Where: All cities villages and towns.
+	When: During night times and in the absence of traffic police.
+	Who: Users of Roads.
+	How: Runs based on time intervals.
