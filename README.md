@@ -5,9 +5,9 @@
 
 
 # Introduction #
-	 To automate the traffic signal to make it work 24x7 without any human intervention and to make the process flawless. This improves the efficiency of traffic control and reduce the manpower used in it.
-
-    SWOT Analysis:
+	 To automate the traffic signal to make it work 24x7 without any human intervention and to make the process flawless. This improves the efficiency of traffic control and reduce the manpower used in it.'
+	 
+SWOT Analysis:
 	
 	Strength: Creative, Makes the work easy and doing it effeciently.
 	Weakness: Works based on time interval doesnt take into account the length of traffic.
