@@ -4,6 +4,8 @@
 
 
 
+# Introduction #
+	 To automate the traffic signal to make it work 24x7 without any human intervention and to make the process flawless. This improves the efficiency of traffic control and reduce the manpower used in it.
 
     SWOT Analysis:
 	
