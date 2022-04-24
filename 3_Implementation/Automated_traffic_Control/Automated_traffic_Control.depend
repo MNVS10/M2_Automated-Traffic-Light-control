@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650807908 source:f:\visual studio\new folder\automated_traffic_control\fuse.c
+	<avr/io.h>
+
+1650807923 source:f:\visual studio\new folder\automated_traffic_control\main.c
+	"inc.h"
+
+1650803598 f:\visual studio\new folder\automated_traffic_control\inc.h
+	<avr/io.h>
+	<util/delay.h>
+
